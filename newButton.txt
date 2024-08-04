@@ -1,1 +1,3 @@
-This i am adding just to see the branches setting in the vscode
+This i am adding just to see the branches setting in the vscode.
+
+This is the second time i am fixing the bug
