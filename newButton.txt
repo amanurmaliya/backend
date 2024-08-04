@@ -6,3 +6,4 @@ This is the third bug
 
 This is the fourth bug
 This is the fiveth branches
+adding the stash file
